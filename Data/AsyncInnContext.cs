@@ -38,7 +38,7 @@ namespace Async_Inn_LAB12.Data
                 State = "Tn",
                 Name = "Elmo's Hotel",
                 Phone = "555-555-5555"
-            });
+            }); 
 
 
             // lookup table

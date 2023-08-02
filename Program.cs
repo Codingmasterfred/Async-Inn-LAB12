@@ -17,7 +17,7 @@ namespace Async_Inn_LAB12
 
             var app = builder.Build();
 
-            //app.MapGet("/", () => "Hello World!");
+            app.MapGet("/", () => "Hello World!");
 
             app.MapControllerRoute(
                 name: "default",

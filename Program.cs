@@ -2,7 +2,7 @@ using Async_Inn_LAB12;
 using Async_Inn_LAB12.Data;
 using Microsoft.EntityFrameworkCore;
 namespace Async_Inn_LAB12
-{
+{ 
     public class Program
     {
         public static void Main(string[] args)
